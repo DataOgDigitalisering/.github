@@ -1,6 +1,6 @@
 # Velkommen til Data & Rapporterings interne GitHub-side
 
-Denne platform indeholder
+Her er nogle nyttige genveje og links til at finde rundt på siden
 ## Dokumentation 
   - Hjemmeside med dokumentation: *[https://dataogdigitalisering.github.io/dokumentation/](https://dataogdigitalisering.github.io/dokumentation)*.
   - Repository som hjemmesiden bygger på: *[Dokumentation](https://github.com/DataOgDigitalisering/dokumentation)*.
