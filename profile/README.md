@@ -1,4 +1,4 @@
-# Velkommen til data og digitalisering GitHub-side.
+# Velkommen til vores GitHub-side
 
 Denne platform bruges til 
 - Dokumentering af data og beregninger
